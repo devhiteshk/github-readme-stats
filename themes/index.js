@@ -361,11 +361,11 @@ const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   },
-  monokai_custom: {
-    title_color: "F6F54D",
-    icon_color: "e28905",
-    text_color: "f1f1eb",
-    bg_color: "272822",
+  calm_cus: {
+    title_color: "5FE0D6",
+    icon_color: "edae49",
+    text_color: "FFFFFF",
+    bg_color: "373f51",
   }
 };
 
