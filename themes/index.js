@@ -363,8 +363,8 @@ const themes = {
   },
   monokai_custom: {
     title_color: "70C5FD",
-    icon_color: "FFF957",
-    text_color: "ffffff",
+    icon_color: "e28905",
+    text_color: "f1f1eb",
     bg_color: "272822",
   }
 };
