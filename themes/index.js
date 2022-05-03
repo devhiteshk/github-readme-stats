@@ -362,7 +362,7 @@ const themes = {
     bg_color: "191724",
   },
   monokai_custom: {
-    title_color: "91091E",
+    title_color: "F6F54D",
     icon_color: "e28905",
     text_color: "f1f1eb",
     bg_color: "272822",
