@@ -360,6 +360,12 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
+  },
+  monokai_custom: {
+    title_color: "70C5FD",
+    icon_color: "FFF957",
+    text_color: "ffffff",
+    bg_color: "272822",
   }
 };
 
