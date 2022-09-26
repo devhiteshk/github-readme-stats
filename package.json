@@ -4,6 +4,8 @@
   "description": "Dynamically generate stats for your github readmes",
   "main": "index.js",
   "scripts": {
+    "build":"vercel build"
+    "start":"npm src/main.ts"
     "test": "jest --coverage",
     "test:watch": "jest --watch",
     "theme-readme-gen": "node scripts/generate-theme-doc",
